@@ -6,6 +6,7 @@ It implements a more sophisticated addressing scheme
 and extends the maximum packet size above 8 bytes.
 
 http://en.wikipedia.org/wiki/J1939
+
 """
 
 import threading
